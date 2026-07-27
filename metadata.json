@@ -1,0 +1,6 @@
+{
+  "name": "ASKARA GRAND – Men's & Boys Wear",
+  "description": "Luxury E-Commerce & Admin Atelier for ASKARA GRAND Men's & Boys Wear, featuring bespoke tailoring, curated collections, live inventory control, order tracking, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
